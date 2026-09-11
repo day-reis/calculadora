@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --botao-color: #13b8b5;
+    --botao-hover: #0fa3a0;
+    --fundo-color: #eef3f6;
+    --card-color: #ffffff;
+    --azul-color: #0f2238;
+    --result-color: #111827;
+    --bg-color: #f7f9fb;
+    --shadow-color: #d6dde3;
+    --texto-color: #1f2937;
+    --texto-secundario: #6b7280;
+}
+
+body.dark {
+    --fundo-color: #0f1b2a;
+    --card-color: #182433;
+    --result-color: #ffffff;
+    --bg-color: #1f2c3a;
+    --shadow-color: #09111b;
+    --texto-color: #f3f4f6;
+    --texto-secundario: #9ca3af;
+    color: white;
+}
+
+body.dark .bolinha{
+    transform: translateX(26px);
+}
+
+table{
+    width: 220px;
+}
+
+button{
+    height: 64px;
+    width: 64px;
+    font-size: 20px;
+    border: transparent;
+    border-radius: 12px;
+    box-shadow: 2px 2px var(--shadow-color);
+}
+
+.fundo{
+    background-color: var(--bg-color);
+    height: 100vh;
+}
+.content-btn{
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+.btn-tema{
+    width: 56px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: #d9e1e8;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.bolinha{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: var(--botao-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    transition: transform 0.3s ease;
+}
+.btn-tema:hover{
+    background-color: var(--azul-color);
+}
+
+.calculadora{
+    display: flex;
+    margin-left: 64px;
+    margin-top: 128px;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 24px;
+    width: 320px;
+}
+
+.resultado{
+    background-color: var(--fundo-color);
+    padding: 24px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 24px;
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 2px 2px var(--shadow-color);
+    margin-bottom: 4px;
+}
+
+.acao{
+    font-style: italic;
+    color: #0fa3a0;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.operador{
+    font-weight: 500;
+    background-color: var(--botao-color);
+    color: var(--bg-color);
+    font-size: 20px;
+}
+
+.numero{
+    font-size: 20px;
+    color: var(--texto-secundario);
+}
+
+.operador-igual{
+    width: 132px;
+    background-color: var(--botao-color);
+    color: var(--bg-color);
+    font-size: 20px;
+    font-weight: 500;
+}
