@@ -1,3 +1,4 @@
+
 # 🧮 Calculadora JavaScript
 Projeto de calculadora responsiva desenvolvido com HTML, CSS e JavaScript como parte da minha evolução em desenvolvimento front-end.
 A proposta foi criar uma calculadora funcional e visualmente agradável, aplicando conceitos básicos de estrutura, estilização, responsividade e manipulação do DOM.
@@ -38,7 +39,8 @@ A ideia é registrar minha evolução na programação, começando com projetos 
 - Melhorias de acessibilidade
 - Salvar preferência de tema
 ## 📷 Preview
-<img width="395" height="745" alt="img-calculadora" src="https://github.com/user-attachments/assets/accd6c68-e059-4591-af14-b2d9702f98dc" />
+<img width="395" height="745" alt="img-calculadora" src="https://github.com/user-attachments/assets/accd6c68-e059-4591-af14-b2d9702f98<img width="384" height="761" alt="img-calculadora-dark" src="https://github.com/user-attachments/assets/ce9d7d19-06a2-4128-8749-1ecd0a88e230" />
+dc" />
 
 ## 👩‍💻 Projeto desenvolvido para estudo
 Este projeto foi desenvolvido com foco em aprendizado e prática de desenvolvimento front-end.
