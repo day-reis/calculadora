@@ -39,8 +39,11 @@ A ideia é registrar minha evolução na programação, começando com projetos 
 - Melhorias de acessibilidade
 - Salvar preferência de tema
 ## 📷 Preview
-<img width="395" height="745" alt="img-calculadora" src="https://github.com/user-attachments/assets/accd6c68-e059-4591-af14-b2d9702f98<img width="384" height="761" alt="img-calculadora-dark" src="https://github.com/user-attachments/assets/ce9d7d19-06a2-4128-8749-1ecd0a88e230" />
-dc" />
+<img width="395" height="745" alt="img-calculadora" src="https://github.com/user-attachments/assets/fe46ee60-3e42-400b-a56f-47ffc2e40891" />
+
+<img width="384" height="761" alt="img-calculadora-dark" src="https://github.com/user-attachments/assets/64bbe5a5-2009-4b61-90fb-fcdaa2df35fc" />
+
+
 
 ## 👩‍💻 Projeto desenvolvido para estudo
 Este projeto foi desenvolvido com foco em aprendizado e prática de desenvolvimento front-end.
